@@ -1,2 +1,2 @@
-# rainchart
-Rainchart Hlanvill's the name.
+# rixard
+Rixard Hlanvill's the name.
